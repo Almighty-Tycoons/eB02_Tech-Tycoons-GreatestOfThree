@@ -85,6 +85,9 @@ function Execution() {
         if(c>a&&c>b){
             document.getElementById('A').innerHTML = "" + c;
         }
+        if(b>a&&b>c){
+            document.getElementById("info").innerHTML = "num2 is the greatest number";
+        }
         reload = true;
         return;
     }

@@ -12,7 +12,8 @@ To learn how to find the greatest of three numbers.
 
 <h5> About the Experiment : </h5>
 
-Swapping is a technique in which variables exchange their values. In computer programming, the act of swapping two variables refers to mutually exchanging the values of the variables. Usually, this is done with the data in memory.
+In this Experiment , we will learn how to compares three input integer numbers and return the greatest number as output.To do this comparison, we will use a simple if-else block,and use simulator to show the working of "if-else lader".
+The program will prompt user to input three integer numbers and based on the input, it would compare(using if-else) and display the greatest number.
 
 <h5> Target Audience : </h5>
 

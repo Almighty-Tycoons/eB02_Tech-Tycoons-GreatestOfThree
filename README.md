@@ -13,7 +13,7 @@ language and to impart writing skill of C programming to the students and solvin
 
 <h5> About the Experiment : </h5>
 
-In this Experiment , we will learn how to compares three input integer numbers and return the greatest number as output.To do this comparison, we will use a simple if-else block,and use simulator to show the working of "if-else ladder".
+In this Experiment, we will learn how to compares three input integer numbers and return the greatest number as output. To do this comparison, we will use a simple if-else block,and use simulator to show the working of "if-else ladder".
 The program will prompt user to input three integer numbers and based on the input, it would compare(using if-else) and display the greatest number.
 
 <h5> Target Audience : </h5>

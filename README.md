@@ -2,13 +2,14 @@
 
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
-<b> Lab | <b> Computer Programming Lab
-<b> Experiment|     <b> 2. (KCS-101/KCS-201) WAP to find the greatest of three numbers.
+<b> Lab | <b> Programming for Problem Solving Lab
+<b> Experiment|     <b> 2. Write A Program to find the greatest of three numbers.
 
 
 <h5> About the Lab (Objective) : </h5>
 
-To learn how to find the greatest of three numbers.
+The lab is created to to introduce students to the basic knowledge of programming fundamentals of C
+language and to impart writing skill of C programming to the students and solving problems.
 
 <h5> About the Experiment : </h5>
 

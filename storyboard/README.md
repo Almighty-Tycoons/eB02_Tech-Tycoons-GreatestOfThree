@@ -1,40 +1,89 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
-Experiment 1: Name of the Experiment
+Experiment 1: Write a program to found the greatest of three number.
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+This experiment is based on finding the largest number from the given input of the user. The experiment will start by the input of user, User will have to give three numbers as a input. And the program will return the greatest number from the given input.
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+The term Greatest of three number itself decribes that it will find the greatest number from the inputs. Firstly, the program is going to compare two of its number and pick the largest from them. Then, it will compare that number to the third input number and find the largest amongst them. And this is how the program will return the greatest of three number.
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+Simulator consist of three blocks, at the left, the simulators asks for three inputs from the user. In the center, simulator will show the code related to the problem. And at the right side, simulator shows the memory block, where the user will be able to see how the program is going to be executed. After entering the three inputs, the user will have to press ok and the execution will start. And then the user will have to press next until the program finishes. Simulator will simulate the process of comparing those numbers in the memory block.  The "greater than symbol(>)" changes it's color to red and green describing which number is greater.
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+1. The main objective of the user is to get the largest number from three input numbers.
+2. To get to know about how the algorithm of "Greatest of three numbers" works.
+3. To understand how variables are compared.
+4. User will need to answer some question based upon the experiment.
 
 #### 2.3 Set the Pathway Activities:
+1. User starts the simulator.
+2. User will need to enter three number in the input box.
+3. User will click on ok to start the execution.
+4. Simulator will display the code of the problem in the code section.
+5. Simulator will highlight the current line of code, where the compiler has reached.
+6. User will press next button and simulator will compare first number to second and third number.
+7. If comparision fails, then user will press next button, otherwise Final output will be displayed.
+8. Simulator will then compare second number to first number and third number.
+9. If comparision fails, then user will press next button, otherwise Final output will be displayed.
+10. Then simulator will display the lagrest number as output.
+11. Program finished.
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+Difficulty level : Remember
+Ques - What operator can be used at the place of if-else ladder?
+(a) Relational operator
+(b) Bitwise operator
+<b>(c) Ternary</b>
+(d) Logical operator
+Ques - What punctuation is used to signal the beginning and end of code blocks?
+(a) BEGIN and END
+<b>(b) { }</b>
+(c) ( and )
+(d) -> and <-
+Ques - Which of the following is a correct comment?
+<b>(a) /* Comment */</b>
+(b) */ Comments */ 
+(c) ** Comment ** 
+(d) { Comment }
+Ques - Which of the following is the correct operator to compare two variables?
+(a) =
+<b>(b) ==</b>
+(c) :=
+(d) equal
+Ques - Which of the following shows the correct syntax for an if statement?
+(a) if expression
+<b>(b) if ( expression )</b>
+(c) if { expression
+(d) expression if
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+There are pitfalls in the simulator, mentioned below:
+1. User will get an error message if user presses ok without giving input.
+2. User will get an error message if user enter string(alphabets or symbols) input.
+3. User should not enter same values in the input field.
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+In this whole experiment, User will be able to learn and uderstand the algorithm of "Greatest of three numbers". This contains tasks separately to each learning objective mentioned by us. Generally, it will take almost half an hour to perform the experiment and to grasp the concept fully. Based on the successful completion of the experiment, user will be able to describe the greatest of three numbers. Hence with this, all the mentioned learning outcomes can be taken with the user.
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
+if( num1>num2 && num1>num3 ) {
+
+printf("%d", num1) ; }
+
+else {
+
+if (num2>num1 && num2>num3) {
+
+printf("%d", num2) ; 
+}
+
+printf("%d", num3) ; 
+}
 
 
 ### 3. Flowchart 4
@@ -50,6 +99,10 @@ link to flow chart Here : Store in the  /flowchart folder within Round2 folder i
  (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
 
 ### 5. Storyboard :
-Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
-Link to storybaord (.gif file ) here :
-(guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
+<img src="images/1.png"style="width: 80vw;"><br>
+<img src="images/2.png"style="width: 80vw;"><br>
+<img src="images/3.png"style="width: 80vw;"><br>
+<img src="images/4.png"style="width: 80vw;"><br>
+<img src="images/5.png"style="width: 80vw;"><br>
+<img src="images/6.png"style="width: 80vw;"><br>
+<img src="images/7.png"style="width: 80vw;"><br>

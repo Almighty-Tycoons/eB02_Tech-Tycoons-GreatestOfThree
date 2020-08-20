@@ -7,22 +7,23 @@ function changeClass(id, className) {
 }
 
 function displayElements() {
-  var a = document.getElementById('inputV1').value;
-  var b = document.getElementById('inputV2').value;
-  var c = document.getElementById('inputV3').value;
+  var a = document.getElementById('inputV1').value.trim();
+  var b = document.getElementById('inputV2').value.trim();
+  var c = document.getElementById('inputV3').value.trim();
   if (window.innerWidth >= 801) {
     if (a == " " || b == " " || c == " ") {
       location.reload();
       alert("Please provide inputs");
       return;
     }
-
-    a.trim();
     a = Number(a);
-    b.trim();
     b = Number(b);
-    c.trim();
     c = Number(c);
+    if (isNaN(typeof(a)) || isNaN(typeof(a)) || isNaN(typeof(a))){
+      alert("Please provide numbers only.");
+      location.reload();
+      return;
+    }
 
     if (a == b == c || a == b || b == c || c == a) {
       location.reload();
@@ -41,22 +42,23 @@ function displayElements() {
   }
 
   if (window.innerWidth <= 800) {
-    var a = document.getElementById('inputV4').value;
-    var b = document.getElementById('inputV5').value;
-    var c = document.getElementById('inputV6').value;
+    var a = document.getElementById('inputV4').value.trim();
+    var b = document.getElementById('inputV5').value.trim();
+    var c = document.getElementById('inputV6').value.trim();
     if (a == " " || b == " " || c == " ") {
       location.reload();
       alert("Please provide inputs");
       return;
     }
 
-    a.trim();
     a = Number(a);
-    b.trim();
     b = Number(b);
-    c.trim();
     c = Number(c);
-
+    if (isNaN(typeof(a)) || isNaN(typeof(a)) || isNaN(typeof(a))){
+      alert("Please provide numbers only.");
+      location.reload();
+      return;
+    }
     if (a == b == c || a == b || b == c || c == a) {
       location.reload();
       alert("Please provide diffrent number for comparison");

@@ -34,27 +34,27 @@ Simulator consist of three blocks, at the left, the simulators asks for three in
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-Difficulty level : Remember<br>
+Difficulty level : Remember<br><br>
 Ques - What operator can be used at the place of if-else ladder?<br>
 (a) Relational operator<br>
 (b) Bitwise operator<br>
 <b>(c) Ternary</b><br>
-(d) Logical operator<br>
+(d) Logical operator<br><br>
 Ques - What punctuation is used to signal the beginning and end of code blocks?<br>
 (a) BEGIN and END<br>
 <b>(b) { }</b><br>
 (c) ( and )<br>
-(d) -> and <-<br>
+(d) -> and <-<br><br>
 Ques - Which of the following is a correct comment?<br>
 <b>(a) /* Comment */</b><br>
 (b) */ Comments */ <br>
 (c) ** Comment ** <br>
-(d) { Comment }<br>
+(d) { Comment }<br><br>
 Ques - Which of the following is the correct operator to compare two variables?<br>
 (a) =<br>
 <b>(b) ==</b><br>
 (c) :=<br>
-(d) equal<br>
+(d) equal<br><br>
 Ques - Which of the following shows the correct syntax for an if statement?<br>
 (a) if expression<br>
 <b>(b) if ( expression )</b><br>

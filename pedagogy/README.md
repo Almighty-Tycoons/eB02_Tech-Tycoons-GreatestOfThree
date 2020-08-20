@@ -46,7 +46,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 ###### Name of Instructional Strategy  :    <u> Expository
 ###### Assessment Method:Formative assessment
 
-<u> <b>Description: </b>simulator will show code of find greatest of three numbers. </u>
+<u> <b>Description: </b> Simulator will show code of find greatest of three numbers. </u>
 <br>
  Simulator will take input from user and then it will show the whole code to the user, when the user clicks on next button the code will run one by one and at the same time the output box will show how these codes actually works.
 

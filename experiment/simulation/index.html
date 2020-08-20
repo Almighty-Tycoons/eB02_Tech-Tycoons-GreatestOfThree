@@ -101,12 +101,15 @@
             <div class="code-text" id="">#include < studio.h ></div><br>
             <div class="code-text" id="">#include < conio.h ></div><br>
             <div class="code-text" id="line1"> int main(){ </div><br>
-            <div class="code-text" id="line2"> int a, b, c; </div><br>
-            <div class="code-text" id="line3"> if( a>b && a>c ) </div><br>
-            <div class="code-text" id="line4"> return a; </div><br>
-            <div class="code-text" id="line5"> if (b>a && b>c) </div><br>
-            <div class="code-text" id="line6"> return b; </div><br>
-            <div class="code-text" id="line7"> return c; </div>
+            <div class="code-text" id="line2"> int num1, num2, num3; </div><br>
+            <div class="code-text" id="line3"> if( num1>num2 && num1>num3 ) {</div><br>
+            <div class="code-text" id="line4"> printf("%d", num1) ; }</div><br>
+            <div class="code-text" id=""> else { </div><br>
+            <div class="code-text" id="line5"> if (num2>num1 && num2>num3) {</div><br>
+            <div class="code-text" id="line6"> printf("%d", num2) ; }</div><br>
+            <div class="code-text" id="line7"> printf("%d", num3) ; }</div>
+            <div class="code-text" id=""> return 0; </div><br>
+            <div class="code-text" id=""> }</div><br>
             </div>
           </div>
         </div>
@@ -128,7 +131,7 @@
         </div>
         <div class="input-bottom-button">
           <div>
-            <input type="button" class="okButton bottom-button button-style" id="bottombtnOk" onclick="displayElements()" value="OK">
+            <input type="button" class="okButton bottom-button button-style" id="button btnOk" onclick="displayElements()" value="OK">
           </div>
           <div>
             <input type="button" class="hide bottom-button button-style" id="next1" onclick="Execution()" value="Next">

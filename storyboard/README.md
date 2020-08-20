@@ -34,32 +34,32 @@ Simulator consist of three blocks, at the left, the simulators asks for three in
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-Difficulty level : Remember
-Ques - What operator can be used at the place of if-else ladder?
-(a) Relational operator
-(b) Bitwise operator
-<b>(c) Ternary</b>
-(d) Logical operator
-Ques - What punctuation is used to signal the beginning and end of code blocks?
-(a) BEGIN and END
-<b>(b) { }</b>
-(c) ( and )
-(d) -> and <-
-Ques - Which of the following is a correct comment?
-<b>(a) /* Comment */</b>
-(b) */ Comments */ 
-(c) ** Comment ** 
-(d) { Comment }
-Ques - Which of the following is the correct operator to compare two variables?
-(a) =
-<b>(b) ==</b>
-(c) :=
-(d) equal
-Ques - Which of the following shows the correct syntax for an if statement?
-(a) if expression
-<b>(b) if ( expression )</b>
-(c) if { expression
-(d) expression if
+Difficulty level : Remember<br>
+Ques - What operator can be used at the place of if-else ladder?<br>
+(a) Relational operator<br>
+(b) Bitwise operator<br>
+<b>(c) Ternary</b><br>
+(d) Logical operator<br>
+Ques - What punctuation is used to signal the beginning and end of code blocks?<br>
+(a) BEGIN and END<br>
+<b>(b) { }</b><br>
+(c) ( and )<br>
+(d) -> and <-<br>
+Ques - Which of the following is a correct comment?<br>
+<b>(a) /* Comment */</b><br>
+(b) */ Comments */ <br>
+(c) ** Comment ** <br>
+(d) { Comment }<br>
+Ques - Which of the following is the correct operator to compare two variables?<br>
+(a) =<br>
+<b>(b) ==</b><br>
+(c) :=<br>
+(d) equal<br>
+Ques - Which of the following shows the correct syntax for an if statement?<br>
+(a) if expression<br>
+<b>(b) if ( expression )</b><br>
+(c) if { expression<br>
+(d) expression if<br>
 
 ##### 2.5 Allow pitfalls:
 There are pitfalls in the simulator, mentioned below:

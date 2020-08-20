@@ -20,15 +20,15 @@ Simulator consist of three blocks, at the left, the simulators asks for three in
 4. User will need to answer some question based upon the experiment.
 
 #### 2.3 Set the Pathway Activities:
-1. User starts the simulator.
-2. User will need to enter three number in the input box.
-3. User will click on ok to start the execution.
-4. Simulator will display the code of the problem in the code section.
-5. Simulator will highlight the current line of code, where the compiler has reached.
-6. User will press next button and simulator will compare first number to second and third number.
-7. If comparision fails, then user will press next button, otherwise Final output will be displayed.
-8. Simulator will then compare second number to first number and third number.
-9. If comparision fails, then user will press next button, otherwise Final output will be displayed.
+01. User starts the simulator.
+02. User will need to enter three number in the input box.
+03. User will click on ok to start the execution.
+04. Simulator will display the code of the problem in the code section.
+05. Simulator will highlight the current line of code, where the compiler has reached.
+06. User will press next button and simulator will compare first number to second and third number.
+07. If comparision fails, then user will press next button, otherwise Final output will be displayed.
+08. Simulator will then compare second number to first number and third number.
+09. If comparision fails, then user will press next button, otherwise Final output will be displayed.
 10. Then simulator will display the lagrest number as output.
 11. Program finished.
 

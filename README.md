@@ -18,7 +18,7 @@ The program will prompt user to input three integer numbers and based on the inp
 
 <h5> Target Audience : </h5>
 
- Aktu students/ B.tech 1st year (CS/IT) students.
+ Aktu students and faculties / B.tech 1st year students.
 
 <h5> Course Alignment : </h5>
 

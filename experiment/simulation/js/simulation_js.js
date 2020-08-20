@@ -21,6 +21,11 @@ function displayElements() {
             alert("Please provide numbers only");
             return;
         }
+        if (a == b == c || a == b || b == c || c == a) {
+          location.reload();
+          alert("Please provide diffrent number for comparison");
+          return;
+        }
     }
 
     if (window.innerWidth <= 800) {
@@ -37,6 +42,11 @@ function displayElements() {
             alert("Please provide numbers only");
             return;
         }
+        if (a == b == c || a == b || b == c || c == a) {
+          location.reload();
+          alert("Please provide diffrent number for comparison");
+          return;
+        }
     }
     //this.createBoxes()
     showCode();
@@ -45,9 +55,11 @@ function displayElements() {
     changeClass(c + "1", 'showDivInRed code-text');
     changeClass('next', 'show button-style');
     changeClass('next1', 'show button-style bottom-button');
-    $('#btnOk').prop('disabled', true);
-    $('#bottombtnOk').prop('disabled', true);
-    
+
+    //document.getElementById("A").innerHTML=""+a;
+    //document.getElementById("B").innerHTML=""+b;
+
+    //Execution(a,b);
 }
 
 function createBoxes() {
@@ -61,10 +73,11 @@ var finished = false;
 var reload = false;
 
 function Execution() {
+  document.getElementById("btnOk").hidden = true;
     if(reload){
         location.reload();
     }
-    
+
 
     if (window.innerWidth >= 801) {
         var a = Number(document.getElementById('inputV1').value);

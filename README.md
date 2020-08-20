@@ -8,7 +8,7 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-The lab is created to to introduce students to the basic knowledge of programming fundamentals of C
+The lab is created to introduce students to the basic knowledge of programming fundamentals of C
 language and to impart writing skill of C programming to the students and solving problems.
 
 <h5> About the Experiment : </h5>

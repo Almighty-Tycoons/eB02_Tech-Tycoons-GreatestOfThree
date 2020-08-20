@@ -189,13 +189,13 @@ body {
 
 .code-text {
     color: white;
-    padding-top: 1.2%;
+    padding-top: 0.3%;
     font-size: 120%;
 }
 
 .stepExecutionDisplay {
-    padding-top: 6vh;
-    padding-left: 11vw;
+    padding-top: 2vh;
+    padding-left: 5vw;
 }
 
 .temp-container {
@@ -234,7 +234,7 @@ body {
     font-size: 4vw;
     font-weight: bold;
     padding-top: 5vh;
-} 
+}
 
 
 
@@ -295,7 +295,7 @@ label {
 }
 .expand{
     width: 90% !important;
-    display: block !important; 
+    display: block !important;
     transition: all 0.3s ease;
  }
  .expand .box{
@@ -387,7 +387,7 @@ label {
     .symbol pre{
         padding-top: 6vh;
         font-size: 7vw;
-    } 
+    }
     .user-text {
         padding-top: 45%;
     }
@@ -455,7 +455,7 @@ label {
     .symbol pre{
         padding-top: 5vh;
         font-size: 14vw;
-    } 
+    }
     .user-text {
         padding-top: 7vh;
     }
@@ -512,4 +512,3 @@ label {
     display: none;
     transition: all 0.3s ease;
 }
-

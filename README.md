@@ -2,7 +2,7 @@
 
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
-<b> Lab | <b> KCS-101/KCS-201
+<b> Lab | <b> Computer Programming Lab
 <b> Experiment|     <b> 2. (KCS-101/KCS-201) WAP to find the greatest of three numbers.
 
 

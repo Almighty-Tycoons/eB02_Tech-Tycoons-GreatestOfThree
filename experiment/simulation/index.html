@@ -9,25 +9,27 @@
   <script src="https://kit.fontawesome.com/e557324b23.js" crossorigin="anonymous"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script>
-    $(document).ready(function () {
-            // When the user scrolls the page, execute myFunction
-            window.onscroll = function () { myFunction() };
+    $(document).ready(function() {
+      // When the user scrolls the page, execute myFunction
+      window.onscroll = function() {
+        myFunction()
+      };
 
-            // Get the navbar
-            var navbar = document.getElementById("bottom-input");
+      // Get the navbar
+      var navbar = document.getElementById("bottom-input");
 
-            // Get the offset position of the navbar
-            var sticky = navbar.offsetTop;
+      // Get the offset position of the navbar
+      var sticky = navbar.offsetTop;
 
-            // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
-            function myFunction() {
-                if (window.pageYOffset >= sticky) {
-                    navbar.classList.add("sticky")
-                } else {
-                    navbar.classList.remove("sticky");
-                }
-            }
-        });
+      // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+      function myFunction() {
+        if (window.pageYOffset >= sticky) {
+          navbar.classList.add("sticky")
+        } else {
+          navbar.classList.remove("sticky");
+        }
+      }
+    });
   </script>
 </head>
 
@@ -41,13 +43,13 @@
         </div>
         <br>
         <label for="inputV1">num1 :</label>
-        <input class="input-field" id="inputV1" type="text">
+        <input class="input-field" id="inputV1" type="text" value=" ">
         <br>
         <label for="inputV2">num2 :</label>
-        <input class="input-field" id="inputV2" type="text">
+        <input class="input-field" id="inputV2" type="text" value=" ">
         <br>
         <label for="inputV2">num3 :</label>
-        <input class="input-field" id="inputV3" type="text">
+        <input class="input-field" id="inputV3" type="text" value=" ">
         <br>
         <input type="button" class="okButton button-style" id="btnOk" onclick="displayElements()" value="OK">
         <input type="button" class="hide button-style" id="next" onclick="Execution()" value="Next">
@@ -70,33 +72,39 @@
           <li class="listItem"><a href="#">Simulation</a></li>
         </ul>
       </div>
-      <div id="bottom-input" class="bottom-input">
+
+
+      <div class="bottom-input" class="bottom-input">
         <div class="BottomInputBlock">
           <div class="input-bottom-box">
             <label for="inputV4">num1</label><br>
-            <input class="input-field" id="inputV4" type="text">
+            <input class="input-field" id="inputV4" type="text" value=" ">
           </div>
           <div class="input-bottom-box">
             <label for="inputV5">num2</label><br>
-            <input class="input-field" id="inputV5" type="text">
+            <input class="input-field" id="inputV5" type="text" value=" ">
           </div>
           <div class="input-bottom-box">
             <label for="inputV6">num3</label><br>
-            <input class="input-field" id="inputV6" type="text">
+            <input class="input-field" id="inputV6" type="text" value=" ">
           </div>
           <div class="input-bottom-button">
             <div>
-              <input type="button" class="okButton bottom-button button-style" id="button btnOk"
-                onclick="displayElements()" value="OK">
+              <input type="button" class="okButton bottom-button button-style" id="btnOk" onclick="displayElements()" value="OK">
             </div>
             <div>
-              <input type="button" class="hide bottom-button button-style" id="next1" onclick="Execution()"
-                value="Next">
+              <input type="button" class="hide bottom-button button-style" id="next1" onclick="Execution()" value="Next">
             </div>
           </div>
+
         </div>
       </div>
+
+
       <div class="main-box">
+
+
+
         <div class="code">
           <div class="head">
             <h1 style="text-align: center; color: #fff;">Code</h1>
@@ -104,29 +112,34 @@
           <div class="stepExecutionDisplay">
             <div class="" id="Swap">
               <div class="code-text" id="">#include < studio.h>
-              </div><br>
+              </div>
               <div class="code-text" id="">#include < conio.h>
               </div><br>
               <div class="code-text" id="line1"> int main(){ </div><br>
-              <div class="code-text" id="line2"> int num1, num2, num3; </div><br>
-              <div class="code-text" id="line3"> if( num1>num2 && num1>num3 ) {</div><br>
+              <div class="code-text" id="line2"> <span id="0">int</span> num1; <span id="1">int</span> num2; <span id="2">int</span> num3; </div><br>
+              <div class="code-text" id="line3"> if( num1>num2 && num1>num3 ) {</div>
               <div class="code-text" id="line4"> printf("%d", num1) ; }</div><br>
               <div class="code-text" id=""> else { </div><br>
               <div class="code-text" id="line5"> if (num2>num1 && num2>num3) {</div><br>
               <div class="code-text" id="line6"> printf("%d", num2) ; }</div><br>
               <div class="code-text" id="line7"> printf("%d", num3) ; }</div>
-              <div class="code-text" id=""> return 0; </div><br>
+              <div class="code-text" id=""> return 0; </div>
               <div class="code-text" id=""> }</div><br>
             </div>
           </div>
         </div>
+
+
+
         <div class="animation">
           <div class="head">
             <h1 style="text-align: center; color: #fff;">Memory</h1>
           </div>
           <div id="resultDisplay">
+            <p class="fix"> <span style="color:green">></span>: condition true , <span style="color:red">></span>: condition false </p>
+            <hr>
             <p>
-            <pre id="info"> </pre>
+              <pre id="info"> </pre>
             </p>
             <div class="temp-container">
               <div class="out-box" id="out-box">
@@ -168,11 +181,14 @@
             </div>
           </div>
         </div>
+
       </div>
     </div>
+
     <!-- Main body ends -->
   </div>
   <!-- Whole body ends -->
+
 </body>
 <script src="js/simulation_js.js" charset="utf-8"></script>
 

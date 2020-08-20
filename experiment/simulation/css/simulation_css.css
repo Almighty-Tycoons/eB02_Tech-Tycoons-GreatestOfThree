@@ -310,6 +310,9 @@ label {
  }
 
 @media only screen and (max-width: 800px) {
+    .main-box{
+        padding-top: 7vh;
+    }
     .main-container {
         width: 100%;
         transition: all 0.3s ease;
@@ -343,12 +346,16 @@ label {
     .bottom-input {
         transition: all 0.3s ease;
         padding-top: 1vh;
+        padding-bottom: 1vh;
         display: inline-block !important;
         min-width: 100vw;
         background-color: #46445a;
-        position: fixed;
-        bottom: 0;
+        position: absolute;
         padding-left: 10%;
+    }
+    .sticky{
+        position: fixed !important;
+        top: 0;
     }
     .input-bottom-box {
         transition: all 0.3s ease;
@@ -394,6 +401,13 @@ label {
 }
 
 @media only screen and (max-width: 641px) {
+    
+    .main-box{
+        padding-top: 3vh;
+    }
+    .sticky{
+        box-shadow: 5px 0px 15px #212121;
+    }
     .original-container{
         margin-top: 10px !important;
         padding-top: 80px !important;

@@ -21,7 +21,7 @@ The program will prompt user to input three integer numbers and based on the inp
 
 <h5> Course Alignment : </h5>
 
-C/C++ Programming Lab
+Programming for Problem Solving Lab
 
 <h5> Universities Mapped : </h5>
 

@@ -12,22 +12,25 @@ function displayElements() {
   var c = document.getElementById('inputV3').value.trim();
   if (window.innerWidth >= 801) {
     if (a == "" || b == "" || c == "") {
-      location.reload();
-      alert("Please provide inputs");
+      // location.reload();
+      // alert("Please provide inputs");
+      $(".validation").html("Please provide inputs");
       return;
     }
     a = Number(a);
     b = Number(b);
     c = Number(c);
     if (isNaN(a) || isNaN(b) || isNaN(c)){
-      alert("Please provide numbers only.");
-      location.reload();
+      // alert("Please provide numbers only.");
+      // location.reload();
+      $(".validation").html("Please provide numbers only.");
       return;
     }
 
     if (a == b == c || a == b || b == c || c == a) {
-      location.reload();
-      alert("Please provide diffrent number for comparison");
+      // location.reload();
+      // alert("Please provide diffrent number for comparison");
+      $(".validation").html("Please provide diffrent number for comparison");
       return;
     }
     if (!Number.isInteger(a)) {
@@ -46,8 +49,9 @@ function displayElements() {
     var b = document.getElementById('inputV5').value.trim();
     var c = document.getElementById('inputV6').value.trim();
     if (a == "" || b == "" || c == "") {
-      location.reload();
-      alert("Please provide inputs");
+      // location.reload();
+      // alert("Please provide inputs");
+      $(".validation").html("Please provide inputs");
       return;
     }
 
@@ -55,13 +59,15 @@ function displayElements() {
     b = Number(b);
     c = Number(c);
     if (isNaN(a) || isNaN(b) || isNaN(c)){
-      alert("Please provide numbers only.");
-      location.reload();
+      // alert("Please provide numbers only.");
+      // location.reload();
+      $(".validation").html("Please provide numbers only.");
       return;
     }
     if (a == b == c || a == b || b == c || c == a) {
-      location.reload();
-      alert("Please provide diffrent number for comparison");
+      // location.reload();
+      // alert("Please provide diffrent number for comparison");
+      $(".validation").html("Please provide diffrent number for comparison");
       return;
     }
     if (!Number.isInteger(a)) {
@@ -74,6 +80,7 @@ function displayElements() {
       document.getElementById("2").innerHTML = "float";
     }
   }
+  $(".validation").hide();
   showCode();
   var c = "line"
   changeClass(c + "1", 'showDivInRed code-text');

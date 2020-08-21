@@ -570,3 +570,6 @@ label {
   display: none;
   transition: all 0.3s ease;
 }
+.validation{
+  color: #ff0000;
+}

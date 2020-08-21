@@ -102,4 +102,3 @@ printf("%d", num3) ;
 <img src="images/7.png"><br>
 <img src="images/8.png"><br>
 <img src="images/9.png"><br>
-<img src="images/10.png"><br>

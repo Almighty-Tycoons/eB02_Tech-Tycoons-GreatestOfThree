@@ -35,27 +35,31 @@ Simulator consist of three blocks, at the left, the simulators asks for three in
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 Difficulty level : Remember<br><br>
-Ques - What operator can be used at the place of if-else ladder?<br>
+Ques-1) What operator can be used at the place of if-else ladder?<br><bbr>
 (a) Relational operator<br>
 (b) Bitwise operator<br>
 <b>(c) Ternary</b><br>
 (d) Logical operator<br><br>
-Ques - What punctuation is used to signal the beginning and end of code blocks?<br>
+Difficulty level : Remember<br><br>
+Ques-2) What punctuation is used to signal the beginning and end of code blocks?<br><br>
 (a) BEGIN and END<br>
 <b>(b) { }</b><br>
 (c) ( and )<br>
 (d) -> and <-<br><br>
-Ques - Which of the following is a correct comment?<br>
+Difficulty level : Remember<br><br>
+Ques-3 Which of the following is a correct comment?<br><br>
 <b>(a) /* Comment */</b><br>
 (b) */ Comments */ <br>
 (c) ** Comment ** <br>
 (d) { Comment }<br><br>
-Ques - Which of the following is the correct operator to compare two variables?<br>
+Difficulty level : Remember<br><br>
+Ques-4) Which of the following is the correct operator to compare two variables?<br><br>
 (a) =<br>
 <b>(b) ==</b><br>
 (c) :=<br>
 (d) equal<br><br>
-Ques - Which of the following shows the correct syntax for an if statement?<br>
+Difficulty level : Remember<br><br>
+Ques-5) Which of the following shows the correct syntax for an if statement?<br><br>
 (a) if expression<br>
 <b>(b) if ( expression )</b><br>
 (c) if { expression<br>
@@ -88,16 +92,12 @@ printf("%d", num3) ;
 
 ### 3. Flowchart 4
 <img src="flowchart/flowchart.png"/><br>
-link to flow chart Here : Store in the  /flowchart folder within Round2 folder in your repo
 <br>
-(guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
 
 ### 4. Mindmap:
 <img src="mindmap/mindmap.png"/>
- Link to mindmap here : Store the mindmap in both .mm & .png extension in the  /mindmap folder and include link of only .pdf verison here
- <br>
- (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
-
+  <br>
+ 
 ### 5. Storyboard :
 <img src="images/1.png"style="width: 80vw;"><br>
 <img src="images/2.png"style="width: 80vw;"><br>

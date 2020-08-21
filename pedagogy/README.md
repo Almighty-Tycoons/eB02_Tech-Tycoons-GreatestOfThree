@@ -31,8 +31,8 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Assign values to variable <br> | Remebering | Recall
-2.| User will be able to: <br><br> find greatest of three numbers | Understanding | Understand
+1.| User will be able to: <br>Assign values to variable <br> | Remebering | Assign
+2.| User will be able to: <br><br> understand how to find greatest of three numbers | Understanding | Understand
 3.| User will be able to: <br>Apply knowledge of comparing in analyzing further problems <br> | Applying | Apply
 
 

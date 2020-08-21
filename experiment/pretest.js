@@ -4,7 +4,7 @@
 
 /////////////////////////////////////////////////////////////////////////////
 
-(function() {
+(function () {
   function buildQuiz() {
     // we'll need a place to store the HTML output
     const output = [];
@@ -72,45 +72,78 @@
   const quizContainer = document.getElementById("quiz");
   const resultsContainer = document.getElementById("results");
   const submitButton = document.getElementById("submit");
- 
-
-/////////////////////////////////////////////////////////////////////////////
-
-/////////////////////// Do not modify the above code ////////////////////////
-
-/////////////////////////////////////////////////////////////////////////////
 
 
+  /////////////////////////////////////////////////////////////////////////////
+
+  /////////////////////// Do not modify the above code ////////////////////////
+
+  /////////////////////////////////////////////////////////////////////////////
 
 
 
 
-/////////////// Write the MCQ below in the exactly same described format ///////////////
+
+
+  /////////////// Write the MCQ below in the exactly same described format ///////////////
 
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Which of the following is the correct operator to compare two variables?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "=",                  ///// Write the option 1 inside double quotes
+        b: "==",                  ///// Write the option 2 inside double quotes
+        c: ":=",                  ///// Write the option 3 inside double quotes
+        d: "Equal"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "Which of the following shows the correct syntax for an if statement?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "if expression",                  ///// Write the option 1 inside double quotes
+        b: "expression if",                  ///// Write the option 2 inside double quotes
+        c: "if { expression",                  ///// Write the option 3 inside double quotes
+        d: "if ( expression )"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
+                                        ///// this line
+
+    {
+      question: "What is the correct symbol to compare greater than equal to?",
+      answers: {
+        a: ">=",
+        b: "=>",
+        c: "*>",
+        d: "none of the above"
+      },
+      correctAnswer: "a"
+    },
+
+    {
+      question: "What is the correct symbol to compare smaller than equal to?",
+      answers: {
+        a: "*=",
+        b: "=<",
+        c: "<=",
+        d: "none of the above"
+      },
+      correctAnswer: "c"
+    },
+
+    {
+      question: "What operator can be used at the place of if-else ladder?",
+      answers: {
+        a: "Relational operator",
+        b: "Bitwise operator",
+        c: "Ternary",
+        d: "Logical operator"
+      },
+      correctAnswer: "c"
+    },
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
@@ -144,11 +177,11 @@
 
 
 
-/////////////////////////////////////////////////////////////////////////////
+  /////////////////////////////////////////////////////////////////////////////
 
-/////////////////////// Do not modify the below code ////////////////////////
+  /////////////////////// Do not modify the below code ////////////////////////
 
-/////////////////////////////////////////////////////////////////////////////
+  /////////////////////////////////////////////////////////////////////////////
 
 
   // display quiz right away

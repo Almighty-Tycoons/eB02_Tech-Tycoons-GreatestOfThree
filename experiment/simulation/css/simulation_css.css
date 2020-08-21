@@ -366,6 +366,7 @@ label {
     padding-top: 1vh;
     padding-bottom: 1vh;
     display: inline-block !important;
+    width: inherit;
     background-color: #46445a;
     padding-left: 10%;
   }

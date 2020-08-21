@@ -11,7 +11,7 @@ function displayElements() {
   var b = document.getElementById('inputV2').value.trim();
   var c = document.getElementById('inputV3').value.trim();
   if (window.innerWidth >= 801) {
-    if (a == " " || b == " " || c == " ") {
+    if (a == "" || b == "" || c == "") {
       location.reload();
       alert("Please provide inputs");
       return;
@@ -45,7 +45,7 @@ function displayElements() {
     var a = document.getElementById('inputV4').value.trim();
     var b = document.getElementById('inputV5').value.trim();
     var c = document.getElementById('inputV6').value.trim();
-    if (a == " " || b == " " || c == " ") {
+    if (a == "" || b == "" || c == "") {
       location.reload();
       alert("Please provide inputs");
       return;

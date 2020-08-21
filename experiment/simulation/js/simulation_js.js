@@ -19,7 +19,7 @@ function displayElements() {
     a = Number(a);
     b = Number(b);
     c = Number(c);
-    if (isNaN(typeof(a)) || isNaN(typeof(b)) || isNaN(typeof(c))){
+    if (isNaN(a) || isNaN(b) || isNaN(c)){
       alert("Please provide numbers only.");
       location.reload();
       return;
@@ -54,7 +54,7 @@ function displayElements() {
     a = Number(a);
     b = Number(b);
     c = Number(c);
-    if (isNaN(typeof(a)) || isNaN(typeof(b)) || isNaN(typeof(c))){
+    if (isNaN(a) || isNaN(b) || isNaN(c)){
       alert("Please provide numbers only.");
       location.reload();
       return;

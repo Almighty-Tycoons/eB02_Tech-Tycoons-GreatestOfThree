@@ -21,7 +21,7 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Experimentation
+#### 1. Focus Area : Reinforce theoretical concept
 
 
 

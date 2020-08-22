@@ -13,7 +13,7 @@ In this laboratory, the students will learn to enforce theoretical concepts of C
 <h5> About the Experiment : </h5>
 
 In this experiment, students will learn how to compare three number, and get the greatest of three number as output. To do this comparison, student will use a simple if-else block, and simulator will show the working of the "if-else ladder".
-The simulator will prompt the user to input three numbers and based on the input, it will display the greatest of three numbers.
+The simulator will prompt the user to input three numbers, during execution it intracts with the user and finally it will display the greatest of three numbers.
 
 <h5> Target Audience : </h5>
 

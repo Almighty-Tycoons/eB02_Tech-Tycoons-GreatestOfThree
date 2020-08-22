@@ -8,13 +8,13 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-The lab is created to introduce students to the basic knowledge of programming fundamentals of C
+The lab is created to introduce students to the basic knowledge of programming fundamentals of the C
 language and to impart writing skill of C programming to the students and solving problems.
 
 <h5> About the Experiment : </h5>
 
-In this Experiment, we will learn how to compares three input integer numbers and return the greatest number as output. To do this comparison, we will use a simple if-else block,and use simulator to show the working of "if-else ladder".
-The program will prompt user to input three integer numbers and based on the input, it would compare(using if-else) and display the greatest number.
+In this experiment, studend will learn how to compare three number which will return the greatest number as output. To do this comparison, student will use a simple if-else block, and use simulator to show the working of the "if-else ladder".
+The program will prompt the user to enter three number and based on the input, it will display the greatest of three number.
 
 <h5> Target Audience : </h5>
 

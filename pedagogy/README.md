@@ -3,7 +3,6 @@
 
 <br>
 <br>
-<b> Experiment WAP to find the greatest of three numbers lab.
 <a name="top"></a> <br>
 </p>
 

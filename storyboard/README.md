@@ -68,7 +68,7 @@ There are pitfalls in the simulator, mentioned below:
 3. User should not enter same values in the input field.
 
 ##### 2.6 Conclusion:
-In this whole experiment, User will be able to learn and uderstand the algorithm of "Greatest of three numbers". This contains tasks separately to each learning objective. Approximately it will take half an hour to perform the experiment and to grasp the concept fully. At the successful completion of the experiment, user will be able to identify the greatest of three numbers.
+In this whole experiment, User will be able to learn and uderstand the algorithm of "Greatest of three numbers". This contains tasks separately to each learning objective. Approximately, it will take half an hour to perform the experiment and to grasp the concept fully. At the successful completion of the experiment, user will be able to identify the greatest of three numbers.
 
 ##### 2.7 Equations/formulas: 
 if( num1>num2 && num1>num3 ) {

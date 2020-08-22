@@ -4,11 +4,11 @@ Experiment 1: Write a program to find the greatest of three number.
 
 ### 1. Story Outline:
 
-This experiment is based on finding the largest number from the given input of the user. The experiment will start by the input of user, User will have to give three numbers as a input. And the program will return the greatest number from the given input.
+This experiment is based on finding the largest of three number given by the user. The experiment will start by recieving the input by the user, will have to give three numbers as  input. And the program will return the greatest number from the given input.
 
 ### 2. Story:
 
-The term Greatest of three number itself decribes that it will find the greatest number from the inputs. Firstly, the program is going to compare two of its number and pick the largest from them. Then, it will compare that number to the third input number and find the largest amongst them. And this is how the program will return the greatest of three number.
+The term Greatest of three number itself describes that it will find the greatest number from the inputs. Firstly, the program is going to compare two of its number and pick the largest from them. Then, it will compare that number to the third input number and find the largest amongst them. And this is how the program will return the greatest of three number.
 
 #### 2.1 Set the Visual Stage Description:
 Simulator consist of three blocks, at the left, the simulators asks for three inputs from the user. In the center, simulator will show the code related to the problem. And at the right side, simulator shows the memory block, where the user will be able to see how the program is going to be executed. After entering the three inputs, the user will have to press ok and the execution will start. And then the user will have to press next until the program finishes. Simulator will simulate the process of comparing those numbers in the memory block.  The "greater than symbol(>)" changes it's color to red and green describing which number is greater.

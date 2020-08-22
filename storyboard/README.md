@@ -4,7 +4,7 @@ Experiment 1: Write a program to find the greatest of three number.
 
 ### 1. Story Outline:
 
-This experiment is based on finding the largest of three number given by the user. The experiment will start by recieving the input by the user, will have to give three numbers as  input. And the program will return the greatest number from the given input.
+This experiment is based on finding the largest of three number given by the user. The user will enter three numbers then simulator will perform operation in intraction with user.  And the program will return the greatest number from the given input.
 
 ### 2. Story:
 

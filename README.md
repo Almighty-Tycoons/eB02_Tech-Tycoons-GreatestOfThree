@@ -8,8 +8,7 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-The lab is created to introduce students to the basic knowledge of programming fundamentals of the C
-language and to impart writing skill of C programming to the students and solving problems.
+In this laboratory, the students will learn to enforce theoretical concepts of C programming language for finding a solution to a problem. Specifically, for the problem of mutually exchanging values of two variables of the same data type.
 
 <h5> About the Experiment : </h5>
 

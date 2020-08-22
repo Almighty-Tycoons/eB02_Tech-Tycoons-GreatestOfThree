@@ -38,9 +38,9 @@ Difficulty level : Remember<br><br>
 Ques - What operator can be used at the place of if-else ladder?<br>
 (a) Relational operator<br>
 (b) Bitwise operator<br>
-<b>(c) Ternary</b><br>
+<b>(c) Ternary operator</b><br>
 (d) Logical operator<br><br>
-Ques - What punctuation is used to signal the beginning and end of code blocks?<br>
+Ques - Punctuation used in function main() to signal the beginning and end of code blocks?<br>
 (a) BEGIN and END<br>
 <b>(b) { }</b><br>
 (c) ( and )<br>
@@ -57,7 +57,7 @@ Ques - Which of the following is the correct operator to compare two variables?<
 (d) equal<br><br>
 Ques - Which of the following shows the correct syntax for an if statement?<br>
 (a) if expression<br>
-<b>(b) if ( expression )</b><br>
+<b>(b) if ( expression ) {};</b><br>
 (c) if { expression<br>
 (d) expression if<br>
 

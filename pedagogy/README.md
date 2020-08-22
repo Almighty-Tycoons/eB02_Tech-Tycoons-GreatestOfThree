@@ -49,7 +49,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b> 
     
- During the experiment, student knows which value is greatest among three numbersbefore excution of the program.after execution of the program user expect some predefined results therefore it is a case of expository instructional strategy. 
+ During the experiment, student knows which value is greatest among three numbers before excution of the program. After execution of the program user expects some predefined result. Therefore it is a case of expository instructional strategy. 
 
 <br/>
 <div align="right">

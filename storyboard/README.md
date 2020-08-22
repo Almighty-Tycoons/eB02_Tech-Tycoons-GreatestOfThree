@@ -68,9 +68,9 @@ There are pitfalls in the simulator, mentioned below:
 3. User should not enter same values in the input field.
 
 ##### 2.6 Conclusion:
-In this whole experiment, User will be able to learn and uderstand the algorithm of "Greatest of three numbers". This contains tasks separately to each learning objective mentioned by us. Generally, it will take almost half an hour to perform the experiment and to grasp the concept fully. Based on the successful completion of the experiment, user will be able to describe the greatest of three numbers. Hence with this, all the mentioned learning outcomes can be taken with the user.
+In this whole experiment, User will be able to learn and uderstand the algorithm of "Greatest of three numbers". This contains tasks separately to each learning objective. Approximately it will take half an hour to perform the experiment and to grasp the concept fully. At the successful completion of the experiment, user will be able to identify the greatest of three numbers.
 
-##### 2.7 Equations/formulas: NA
+##### 2.7 Equations/formulas: 
 if( num1>num2 && num1>num3 ) {
 
 printf("%d", num1) ; }
@@ -86,7 +86,7 @@ printf("%d", num3) ;
 }
 
 
-### 3. Flowchart 4
+### 3. Flowchart 
 <img src="flowchart/flowchart.png"/><br>
 
 ### 4. Mindmap:

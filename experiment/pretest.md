@@ -1,32 +1,42 @@
 ## <b> Pre-test
-#### Please attempt the following questions
+#### Please attempt the following questions</br></b>
 
-1) Interference occurs due to _______ of the light.<br>
-<b>a) Wave nature<br></b>
-b) particle nature<br>
-c) both a and b<br>
-d) none of these<br>
+1) Output of an arithmetic expression with integers and real numbers is ___ by default.?<br>
+A) Integer<br>
+<b>B) Real number</b><br>
+C) Depends on the numbers used in the expression.<br>
+D) None of the above<br>
 
-2) Superposition of crest over crest results in __________ .<br>
-a) Destructive interference<br>
-<b> b) Constructive interference<br></b>
-c) Diffraction<br>
-d) Polarization<br>
+2) Choose a right statement.<br>
+int a = 10 + 4.867;<br>
+A) a = 10<br>
+B) a = 14.867<br>
+<b>C) a = 14</b><br>
+D) compiler error<br>.
 
-3) If two waves with amplitude (y1) and (y2) travelling in the same medium reach at a point in the medium, then the resultant displacement at that point in the medium, will be given by __________ .<br>
-a) y1 -y2<br>
-<b>b) y1 + y2<br></b>
-c) y1 / y2<br>
-d) y1 * y2<br>
+3) Choose a syntax for C Ternary Operator from the list.<br>
+<b>A) condition ? expression1 : expression2</b><br>
+B) condition : expression1 ? expression2<br>
+C) condition ? expression1 < expression2<br>
+D) condition < expression1 ? expression2<br>
 
-4) The condition for destructive interference is: the path difference should be equal to __________. <br>
-<b>a) Odd integral multiple of wavelength<br></b>
-b) Integral multiple of wavelength<br>
-c) Odd integral multiple of half wavelength<br>
-d) Integral multiple of half wavelength<br>
+4) Choose a statement to use C If Else statement.<br>
+A) else if is compulsory to use with if statement.<br>
+B) else is compulsory to use with if statement.<br>
+<b>C) else or else if is optional with if statement.</b><br>
+D) None of the above<br>
 
-5) In Newton's ring experiment, the diameter of the dark rings is proportional to __________ .<br>
-a) Odd natural numbers<br>
-b) Even natural numbers<br>
-c) Complex numbers<br>
-<b>d) square root of natural numbers<br></b>
+5) What is the output of the C Program.?<br>
+int main()<br>
+{<br>
+    if( 4 > 5 )<br>
+        printf("Hurray..\n");<br>
+        printf("Yes");<br>
+    return 0;<br>
+    }<br>
+<b>A) Yes</b><br>
+B) Hurray..<br>
+Yes<br>
+C) Hurray..Yes<br>
+D) No Output<br>
+

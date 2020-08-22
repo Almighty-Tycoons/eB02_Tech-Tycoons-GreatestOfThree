@@ -90,46 +90,46 @@
 
   const myQuestions = [
     {
-      question: "Which of the following is the correct operator to compare two variables?",  ///// Write the question inside double quotes
+      question: "Output of an arithmetic expression with integers and real numbers is ___ by default.?",  ///// Write the question inside double quotes
       answers: {
-        a: "=",                  ///// Write the option 1 inside double quotes
-        b: "==",                  ///// Write the option 2 inside double quotes
-        c: ":=",                  ///// Write the option 3 inside double quotes
-        d: "Equal"                   ///// Write the option 4 inside double quotes
+        a: "Integer",                  ///// Write the option 1 inside double quotes
+        b: "Real number",                  ///// Write the option 2 inside double quotes
+        c: "Depends on the numbers used in the expression.",                  ///// Write the option 3 inside double quotes
+        d: "None of the above"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "Which of the following shows the correct syntax for an if statement?",  ///// Write the question inside double quotes
+      question: "Choose a right statement.<br>int a = 10 + 4.867;",  ///// Write the question inside double quotes
       answers: {
-        a: "if expression",                  ///// Write the option 1 inside double quotes
-        b: "expression if",                  ///// Write the option 2 inside double quotes
-        c: "if { expression",                  ///// Write the option 3 inside double quotes
-        d: "if ( expression )"                   ///// Write the option 4 inside double quotes
+        a: "a = 10",                  ///// Write the option 1 inside double quotes
+        b: "a = 14.867",                  ///// Write the option 2 inside double quotes
+        c: "a = 14",                  ///// Write the option 3 inside double quotes
+        d: "compiler error"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "d"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
                                         ///// this line
 
     {
-      question: "What is the correct symbol to compare greater than equal to?",
+      question: "Choose a syntax for C Ternary Operator from the list.",
       answers: {
-        a: ">=",
-        b: "=>",
-        c: "*>",
-        d: "none of the above"
+        a: "condition ? expression1 : expression2",
+        b: "condition : expression1 ? expression2",
+        c: "condition ? expression1 < expression2",
+        d: "condition < expression1 ? expression2"
       },
       correctAnswer: "a"
     },
 
     {
-      question: "What is the correct symbol to compare smaller than equal to?",
+      question: "Choose a statement to use C If Else statement.",
       answers: {
-        a: "*=",
-        b: "=<",
-        c: "<=",
-        d: "none of the above"
+        a: "else if is compulsory to use with if statement.",
+        b: "else is compulsory to use with if statement.",
+        c: "else or else if is optional with if statement.",
+        d: "None of the above"
       },
       correctAnswer: "c"
     },

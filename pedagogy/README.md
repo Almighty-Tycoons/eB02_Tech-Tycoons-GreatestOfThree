@@ -49,7 +49,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b> 
     
- During the experiment, student knows which value is greatest among three numbers before excution of the program. After execution of the program user expects some predefined result. Therefore it is a case of expository instructional strategy. 
+ During the experiment, student knows which value is greatest among three numbers before excution of the program. After execution of the program user expects some predefined result. Therefore, it is a case of expository instructional strategy. 
 
 <br/>
 <div align="right">
@@ -67,9 +67,9 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| Students will be able to <br> Declare variables  | Student will declare data type of the variables| Q1. What are the data types of variable can be used in the code of finding the greatest of three numbers.?<br> <b> A. int </b><br> B. float </b><br> C. char </b><br>D. int or float</b><br> 
+1.| Students will be able to <br>Define how to declare variables| Student will declare data type of the variables| Q1. What are the data types of variable can be used in the code of finding the greatest of three numbers.?<br> <b> A. int </b><br> B. float </b><br> C. char </b><br>D. int or float</b><br> 
 2.| Students will be able to<br> Apply relational operators and conditional operators| Student will perform <br> <ul> <li> comparing num1 with num2 and num3.</li><li> comparing num2 with num1 and num3.</li> <li> comparing num3 with num1 and num2.</li> | Q1.  What operator can be used at the place of if-else ladder?<br>A.realtional operator <br> B. bitwise operator <br> <b>C. Ternary operator </b><br>D. logical operator<br>Q2. Which of the following is the correct relational operator?<br> A. +, -, *, %, /  <br> <b> B. >, >=, <, <=, ==, != </b><br>C. := <br>D. ++, -- <br>
-3.| Students will be able to<br> Compare three number | Student will apply the comparison | Q3. Find the correct way of comparing three variable.<br> A. if(num1 > num2 > num3){}; <br> <b> B. if((num1>num2) && (num1>num3)){}; </b>
+3.| Students will be able to<br> Identify greatest of three numbers | Student will apply the comparison | Q3. Find the correct way of comparing three variable.<br> A. if(num1 > num2 > num3){}; <br> <b> B. if((num1>num2) && (num1>num3)){}; </b>
 
  <br>
 

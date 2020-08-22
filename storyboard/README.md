@@ -63,8 +63,8 @@ Ques5 - Which of the following shows the correct syntax for an if statement?<br>
 
 ##### 2.5 Allow pitfalls:
 There are pitfalls in the simulator, mentioned below:
-1. User will get an error message if user presses ok without giving input.
-2. User will get an error message if user enter string(alphabets or symbols) input.
+1. User will get an alert message, if user press ok without giving input.
+2. User will get an alert message, if user enter string(alphabets or symbols) input.
 3. User should not enter same values in the input field.
 
 ##### 2.6 Conclusion:

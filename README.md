@@ -26,7 +26,7 @@ Programming for Problem Solving Lab
 
 <h5> Universities Mapped : </h5>
 
-  AKTU
+  AKTU LUCKNOW
 
 <b>Name of Developer | <b>Jasvant Kumar
 :--|:--|

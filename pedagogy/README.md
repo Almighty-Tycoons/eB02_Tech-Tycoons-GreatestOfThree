@@ -30,7 +30,7 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br> Declare variables <br> | Remember | Declare
+1.| User will be able to: <br>Define how to declare variables <br> | Remember | Define
 2.| User will be able to: <br> Apply relational operators and conditional operator | Apply | Apply
 3.| User will be able to: <br> Compare three number <br> | Apply | Compare
 

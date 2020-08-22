@@ -34,28 +34,28 @@ Simulator consists of three blocks, at the left, the simulators asks for three i
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-Difficulty level : Remember<br><br>
-Ques - What operator can be used at the place of if-else ladder?<br>
+Difficulty level : Remember<br>
+Ques1 - What operator can be used at the place of if-else ladder?<br>
 (a) Relational operator<br>
 (b) Bitwise operator<br>
 <b>(c) Ternary operator</b><br>
 (d) Logical operator<br><br>
-Ques - Punctuation used in function main() to signal the beginning and end of code blocks?<br>
+Ques2 - Punctuation used in function main() to signal the beginning and end of code blocks?<br>
 (a) BEGIN and END<br>
 <b>(b) { }</b><br>
 (c) ( and )<br>
 (d) -> and <-<br><br>
-Ques - Which of the following is a correct comment?<br>
+Ques3 - Which of the following is a correct comment?<br>
 <b>(a) /* Comment */</b><br>
 (b) */ Comments */ <br>
 (c) ** Comment ** <br>
 (d) { Comment }<br><br>
-Ques - Which of the following is the correct operator to compare two variables?<br>
+Ques4 - Which of the following is the correct operator to compare two variables?<br>
 (a) =<br>
 <b>(b) ==</b><br>
 (c) :=<br>
 (d) equal<br><br>
-Ques - Which of the following shows the correct syntax for an if statement?<br>
+Ques5 - Which of the following shows the correct syntax for an if statement?<br>
 (a) if expression<br>
 <b>(b) if ( expression ) {};</b><br>
 (c) if { expression<br>

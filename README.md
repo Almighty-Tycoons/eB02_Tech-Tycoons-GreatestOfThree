@@ -18,7 +18,7 @@ The program will prompt user to input three integer numbers and based on the inp
 
 <h5> Target Audience : </h5>
 
- Aktu students and faculties / B.tech 1st year students.
+Students and faculties / B.tech 1st year students.
 
 <h5> Course Alignment : </h5>
 
@@ -46,11 +46,10 @@ Programming for Problem Solving Lab
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Jasvant Kumar | Faculty | Computer Science and Engineering | B.N.C.E.T, Lucknow | er.jaswantsingh786@gmail.com
-2 | Raza Mehndi | Student | Information Technology | B.N.C.E.T, Lucknow |razamehndi81@gmail.com
-3 | Aasiya Zabeen | Student | Computer Science and Engineering | B.N.C.E.T, Lucknow |syedasiya000@gmail.com
-4 | Rudra Narayan Gupta | Student | Computer Science and Engineering | B.N.C.E.T, Lucknow |rudra9506@gmail.com
-5 | Akhilesh Tripathi | Student | Computer Science and Engineering | B.N.C.E.T, Lucknow |akhilesh03tripathi@gmail.com
+1 | Raza Mehndi | Student | Information Technology | B.N.C.E.T, Lucknow |razamehndi81@gmail.com
+2 | Aasiya Zabeen | Student | Computer Science and Engineering | B.N.C.E.T, Lucknow |syedasiya000@gmail.com
+3 | Rudra Narayan Gupta | Student | Computer Science and Engineering | B.N.C.E.T, Lucknow |rudra9506@gmail.com
+4 | Akhilesh Tripathi | Student | Computer Science and Engineering | B.N.C.E.T, Lucknow |akhilesh03tripathi@gmail.com
 
 
 <br>

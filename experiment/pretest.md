@@ -26,17 +26,8 @@ B) else is compulsory to use with if statement.<br>
 <b>C) else or else if is optional with if statement.</b><br>
 D) None of the above<br>
 
-5) What is the output of the C Program.?<br>
-int main()<br>
-{<br>
-    if( 4 > 5 )<br>
-        printf("Hurray..\n");<br>
-        printf("Yes");<br>
-    return 0;<br>
-    }<br>
-<b>A) Yes</b><br>
-B) Hurray..<br>
-Yes<br>
-C) Hurray..Yes<br>
-D) No Output<br>
-
+5) What operator can be used at the place of if-else ladder?<br>
+A) Relational operator<br>
+B) Bitwise operator<br>
+<b>C) Ternary</b><br>
+D) Logical operator<br>

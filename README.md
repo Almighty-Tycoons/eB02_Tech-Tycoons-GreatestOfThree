@@ -26,7 +26,7 @@ Programming for Problem Solving Lab
 
 <h5> Universities Mapped : </h5>
 
-  ABDUL KALAM TECHNICAL UNIVERSITY
+  AKTU
 
 <b>Name of Developer | <b>Jasvant Kumar
 :--|:--|

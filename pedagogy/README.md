@@ -49,7 +49,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b> Simulator will show code of find greatest of three numbers. </u>
 <br>
- Simulator will take input from user and then it will show the whole code to the user, when the user clicks on next button the code will run one by one and at the same time the output box will show how these codes actually works.
+ During the experiment, student will perceive at which memory block which value exists. It means student is familiar with the changes in the values of the variables, and all the results will be known to the student during experiment, so it is the case of expository instructional strategy.
 
 <br/>
 <div align="right">

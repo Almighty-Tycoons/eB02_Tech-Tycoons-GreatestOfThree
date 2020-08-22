@@ -12,7 +12,7 @@ int a = 10 + 4.867;<br>
 A) a = 10<br>
 B) a = 14.867<br>
 <b>C) a = 14</b><br>
-D) compiler error<br>.
+D) compiler error<br>
 
 3) Choose a syntax for C Ternary Operator from the list.<br>
 <b>A) condition ? expression1 : expression2</b><br>

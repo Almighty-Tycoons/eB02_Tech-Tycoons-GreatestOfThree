@@ -8,7 +8,7 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-In this laboratory, the students will learn to enforce theoretical concepts of C programming language for finding a solution to a problem. Specifically, for the problem of to find greatest of three number.
+In this laboratory, the students will learn to enforce theoretical concepts of C programming language for finding a solution to a problem. Specifically, for the problem to find greatest of three number.
 
 <h5> About the Experiment : </h5>
 

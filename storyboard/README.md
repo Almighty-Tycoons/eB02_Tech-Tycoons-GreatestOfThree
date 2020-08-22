@@ -1,6 +1,6 @@
 ## Storyboard (Round 2)
 
-Experiment 1: Write a program to found the greatest of three number.
+Experiment 1: Write a program to find the greatest of three number.
 
 ### 1. Story Outline:
 

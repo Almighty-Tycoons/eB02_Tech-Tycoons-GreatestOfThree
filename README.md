@@ -13,7 +13,7 @@ language and to impart writing skill of C programming to the students and solvin
 
 <h5> About the Experiment : </h5>
 
-In this experiment, studend will learn how to compare three number which will return the greatest number as output. To do this comparison, student will use a simple if-else block, and use simulator to show the working of the "if-else ladder".
+In this experiment, students will learn how to compare three number, and get the greatest of three number as output. To do this comparison, student will use a simple if-else block, and use simulator to show the working of the "if-else ladder".
 The program will prompt the user to enter three number and based on the input, it will display the greatest of three number.
 
 <h5> Target Audience : </h5>

@@ -49,7 +49,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b> 
     
- During the experiment, student will perceive at which memory block which value exists. It means student is familiar with the changes in the values of the variables, and all the results will be known to the student during experiment, so it is the case of expository instructional strategy.
+ During the experiment, student knows which value is greatest among three numbersbefore excution of the program.after execution of the program user expect some predefined results therefore it is a case of expository instructional strategy. 
 
 <br/>
 <div align="right">

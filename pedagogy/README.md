@@ -9,7 +9,7 @@
 
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
-<b> Lab | <b> Computer Programming Lab
+<b> Lab | <b> Programming for Problem Solving Lab
 <b> Experiment|     <b> 2. Write a program to find the greatest of three numbers.
 
 
@@ -31,9 +31,9 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Assign values to variable <br> | Remebering | Assign
-2.| User will be able to: <br><br> understand how to find greatest of three numbers | Understanding | Understand
-3.| User will be able to: <br>Apply knowledge of comparing in analyzing further problems <br> | Applying | Apply
+1.| User will be able to: <br>Declare variable <br> | Remember | Declare
+2.| User will be able to: <br><br> Apply relational operators | Apply | Apply
+3.| User will be able to: <br> Compair three number <br> | Apply | Compair
 
 
 <br/>

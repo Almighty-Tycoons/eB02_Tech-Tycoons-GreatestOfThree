@@ -8,7 +8,7 @@ This experiment is based on finding the largest of three number given by the use
 
 ### 2. Story:
 
-The term greatest of three number itself describes that it will find the greatest number from the given inputs. Firstly, the program is going to compare two of it's numbers and pick the largest of them. Then, it will compare that number to the third input number and find the largest amongst them. And this is how the program will return the greatest of three numbers.
+The term greatest of three number itself describes that it will find the greatest number from the given inputs. Firstly, the program is going to compare two of it's numbers and pick the largest of them. Then, it will compare that number to the third number and find the largest among them. And this is how the program will return the greatest of three numbers.
 
 #### 2.1 Set the Visual Stage Description:
 Simulator consists of three blocks, at the left, the simulators asks for three inputs from the user. In the center, the simulator will show the code related to the problem and at the right side, simulator shows the memory block, where the user will be able to see how the program is going to be executed. After entering the three inputs, the user will have to press ok and the execution will start. And then the user will have to press next until the program finishes. Simulator will simulate the process of comparing those numbers in the memory block.  The "greater than symbol(>)" changes it's color to red and green describing which number is greater.

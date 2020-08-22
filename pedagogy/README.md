@@ -69,7 +69,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.| Students will be able to <br> Declare variables  | Student will declare data type of the variables| Q1.  What operator can be used at the place of if-else ladder?<br> <b> A.realtional operator </b><br> B. bitwise operator </b><br> C. ternary </b><br>D. logical operator</b><br> 
-2.| Students will be able to<br> Apply relational operators| Student will perform <br> <ul> <li> comparing num1 with num2 and num3.</li><li> comparing num2 with num1 and num3.</li> <li> comparing num3 with num1 and num2.</li> | Q2. Which of the following is the correct operator to compare two variables?<br> A. =   <br> <b> B. == </b><br>C. :=<br>D. equal</b>
+2.| Students will be able to<br> Apply relational operators and conditional operator| Student will perform <br> <ul> <li> comparing num1 with num2 and num3.</li><li> comparing num2 with num1 and num3.</li> <li> comparing num3 with num1 and num2.</li> | Q1.  What operator can be used at the place of if-else ladder?<br> <b> A.realtional operator </b><br> B. bitwise operator </b><br> C. Ternary operator </b><br>D. logical operator</b><br>Q2. Which of the following is the correct operator to compare two variables?<br> A. =   <br> <b> B. == </b><br>C. :=<br>D. equal</b>
 3.| Students will be able to<br> Compare three number | Student will assign values to variables | Q3. The problems where find greatest of three numbers can be applied. <br> A. Searching based <br> <b> B. Sorting based </b>
 
  <br>

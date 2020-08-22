@@ -32,8 +32,8 @@
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| User will be able to: <br>Declare variable <br> | Remember | Declare
-2.| User will be able to: <br><br> Apply relational operators | Apply | Apply
-3.| User will be able to: <br> Compair three number <br> | Apply | Compair
+2.| User will be able to: <br> Apply relational operators | Apply | Apply
+3.| User will be able to: <br> Compare three number <br> | Apply | Compare
 
 
 <br/>

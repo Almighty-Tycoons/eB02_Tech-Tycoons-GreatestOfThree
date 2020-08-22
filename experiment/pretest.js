@@ -101,7 +101,7 @@
     },
 
     {
-      question: "Choose a right statement.<br>int a = 10 + 4.867;",  ///// Write the question inside double quotes
+      question: "What will be the value of ' a ' in code :<br>int a = 10 + 4.867;",  ///// Write the question inside double quotes
       answers: {
         a: "a = 10",                  ///// Write the option 1 inside double quotes
         b: "a = 14.867",                  ///// Write the option 2 inside double quotes
@@ -113,18 +113,18 @@
                                         ///// this line
 
     {
-      question: "Choose a syntax for C Ternary Operator from the list.",
+      question: "Which of the following is a syntax for Ternary Operator in C.",
       answers: {
-        a: "condition ? expression1 : expression2",
-        b: "condition : expression1 ? expression2",
-        c: "condition ? expression1 < expression2",
-        d: "condition < expression1 ? expression2"
+        a: "(condition) ? expression1 : expression2",
+        b: "(condition) : expression1 ? expression2",
+        c: "(condition) ? expression1 < expression2",
+        d: "(condition) < expression1 ? expression2"
       },
       correctAnswer: "a"
     },
 
     {
-      question: "Choose a statement to use C If Else statement.",
+      question: "For using ' if-else ' , which of the following statement is true.",
       answers: {
         a: "else if is compulsory to use with if statement.",
         b: "else is compulsory to use with if statement.",
@@ -135,11 +135,11 @@
     },
 
     {
-      question: "What operator can be used at the place of if-else ladder?",
+      question: "Which operator can we use on the place of if-else ?",
       answers: {
         a: "Relational operator",
         b: "Bitwise operator",
-        c: "Ternary",
+        c: "Ternary operator",
         d: "Logical operator"
       },
       correctAnswer: "c"

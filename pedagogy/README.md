@@ -47,8 +47,8 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 ###### Name of Instructional Strategy  :    <u> Expository
 ###### Assessment Method: Formative assessment
 
-<u> <b>Description: </b> Simulator will show code of find greatest of three numbers. </u>
-<br>
+<u> <b>Description: </b> 
+    
  During the experiment, student will perceive at which memory block which value exists. It means student is familiar with the changes in the values of the variables, and all the results will be known to the student during experiment, so it is the case of expository instructional strategy.
 
 <br/>

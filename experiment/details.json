@@ -2,45 +2,45 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": "Write a program to find the greatest of three numbers.",     
+			"Lab": "Programming for Problem Solving Lab",               
+			"Discipline": "Computer Science and Engineering",				 
+			"Technology": "HTML5, CSS3 & Javascript"         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Jasvant Kumar",         
+      "Institute": "B.N. COLLEGE OF ENGINEERING AND TECHNOLOGY",         
+      "InstituteAcronym": "BNCET"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Rudra Narayan Gupta",             
+      "Institute": "B.N. COLLEGE OF ENGINEERING AND TECHNOLOGY",               
+			"InstituteAcronym": "BNCET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Aasiya Zabeen",             
+      "Institute": "B.N. COLLEGE OF ENGINEERING AND TECHNOLOGY",               
+			"InstituteAcronym": "BNCET"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Akhilesh Tripathi",             
+      "Institute": "B.N. COLLEGE OF ENGINEERING AND TECHNOLOGY",               
+			"InstituteAcronym": "BNCET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
-       }
+			"Contributer": "Raza Mehndi",             
+      "Institute": "B.N. COLLEGE OF ENGINEERING AND TECHNOLOGY",               
+			"InstituteAcronym": "BNCET"         
+       },
    ]
 
 }

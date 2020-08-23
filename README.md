@@ -25,7 +25,7 @@ Programming for Problem Solving Lab
 
 <h5> Universities Mapped : </h5>
 
-  AKTU LUCKNOW
+  Dr. A.P.J. ABDUL KALAM TECHNICAL UNIVERSITY LUCKNOW
 
 <b>Name of Developer | <b>Jasvant Kumar
 :--|:--|

@@ -1,1 +1,1 @@
-
+To learn how to find the greatest of three numbers.

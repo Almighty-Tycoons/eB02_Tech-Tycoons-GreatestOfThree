@@ -571,5 +571,6 @@ label {
   transition: all 0.3s ease;
 }
 .validation{
-  color: #ff0000;
+  color: #fddb3a;
+  font-weight: bold;
 }

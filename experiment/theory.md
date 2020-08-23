@@ -8,7 +8,7 @@ Enter values in three variables using scanf() function and show message using pr
 printf("enter values of a, b ,c"); 
     scanf("%d %d %d",&a,&b,&c);  
 
-Compare variables using </b>relational operators in if-else block</b>
+Compare variables using <b>relational operators</b> in <b>if-else block</b>
  
 if(num1>num2 && num1>num3)<br>
 print("num1 is greater than num2 and num3") ;<br>

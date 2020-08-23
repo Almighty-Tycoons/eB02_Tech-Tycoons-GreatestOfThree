@@ -93,13 +93,10 @@ printf("%d", num3) ;
 <img src="mindmap/mindmap.png"/>
 
 ### 5. Storyboard :
-<img src="images/1.PNG"><br>
-<img src="images/2.PNG"><br>
-<img src="images/3.PNG"><br>
-<img src="images/4.PNG"><br>
-<img src="images/5.PNG"><br>
-<img src="images/6.PNG"><br>
-<img src="images/7.PNG"><br>
-<img src="images/8.PNG"><br>
-<img src="images/9.PNG"><br>
+<img src="images/6.jpg"><br>
+<img src="images/7.jpg"><br>
+<img src="images/8.jpg"><br>
+<img src="images/9.jpg"><br>
+
+>
 

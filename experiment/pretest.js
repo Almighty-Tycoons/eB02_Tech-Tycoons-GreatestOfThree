@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "Output of an arithmetic expression with integers and real numbers is ___ by default.?",  ///// Write the question inside double quotes
+      question: "Output of an arithmetic expression with integers and real numbers is ___ by default?",  ///// Write the question inside double quotes
       answers: {
         a: "Integer",                  ///// Write the option 1 inside double quotes
         b: "Real number",                  ///// Write the option 2 inside double quotes
@@ -124,18 +124,18 @@
     },
 
     {
-      question: "For using ' if-else ' , which of the following statement is true.",
+      question: 'Output will be : int main() {float a,b; a=3.0f; b=4.0f; printf("%.0f,%.1f,%.2f",a/b,a/b,a/b); return 0; }',
       answers: {
-        a: "else if is compulsory to use with if statement.",
-        b: "else is compulsory to use with if statement.",
-        c: "else or else if is optional with if statement.",
+        a: "1,0.8,0.75",
+        b: "0,0.7,0.75",
+        c: "0,0.8,0.75",
         d: "None of the above"
       },
-      correctAnswer: "c"
+      correctAnswer: "a"
     },
 
     {
-      question: "Which operator can we use on the place of if-else ?",
+      question: "Which operator can we use in the place of if-else ?",
       answers: {
         a: "Relational operator",
         b: "Bitwise operator",

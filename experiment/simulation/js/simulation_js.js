@@ -1,3 +1,6 @@
+$(".stepExecutionDisplay").hide();
+
+
 function showCode() {
   document.getElementById('Swap').className = 'show, codeLayout';
 }
@@ -7,6 +10,7 @@ function changeClass(id, className) {
 }
 
 function displayElements() {
+  $(".stepExecutionDisplay").show();
   var a = document.getElementById('inputV1').value.trim();
   var b = document.getElementById('inputV2').value.trim();
   var c = document.getElementById('inputV3').value.trim();
@@ -33,15 +37,32 @@ function displayElements() {
       $(".validation").html("Please provide diffrent number for comparison");
       return;
     }
-    if (!Number.isInteger(a)) {
-      document.getElementById("0").innerHTML = "float";
+
+    if (Number.isInteger(a) && Number.isInteger(b) && Number.isInteger(c)) {
+      document.getElementById("line2").innerHTML="<br>int num1,num2,num3;<br>";;
+    } else {
+      if (!Number.isInteger(a) && !Number.isInteger(b) && !Number.isInteger(c)) {
+        document.getElementById("line2").innerHTML="<br>float num1,num2,num3;<br>";
+      } else {
+        if (!Number.isInteger(a)) {
+          document.getElementById("0").innerHTML = "float num1; <br>";
+        }else{
+          document.getElementById("0").innerHTML = "int num1; <br>";
+        }
+        if (!Number.isInteger(b)) {
+          document.getElementById("1").innerHTML = "float num2; <br>";
+        }else{
+          document.getElementById("1").innerHTML = "int num2; <br>";
+        }
+        if (!Number.isInteger(c)) {
+          document.getElementById("2").innerHTML = "float num3;";
+        }else{
+          document.getElementById("2").innerHTML = "int num3;";
+        }
+      }
     }
-    if (!Number.isInteger(b)) {
-      document.getElementById("1").innerHTML = "float";
-    }
-    if (!Number.isInteger(c)) {
-      document.getElementById("2").innerHTML = "float";
-    }
+
+
   }
 
   if (window.innerWidth <= 800) {
@@ -70,22 +91,39 @@ function displayElements() {
       $(".validation").html("Please provide diffrent number for comparison");
       return;
     }
-    if (!Number.isInteger(a)) {
-      document.getElementById("0").innerHTML = "float";
-    }
-    if (!Number.isInteger(b)) {
-      document.getElementById("1").innerHTML = "float";
-    }
-    if (!Number.isInteger(c)) {
-      document.getElementById("2").innerHTML = "float";
+    if (Number.isInteger(a) && Number.isInteger(b) && Number.isInteger(c)) {
+      document.getElementById("line2").innerHTML="<br>int num1,num2,num3;<br>";;
+    } else {
+      if (!Number.isInteger(a) && !Number.isInteger(b) && !Number.isInteger(c)) {
+        document.getElementById("line2").innerHTML="<br>float num1,num2,num3;<br>";
+      } else {
+        if (!Number.isInteger(a)) {
+          document.getElementById("0").innerHTML = "float num1; <br>";
+        }else{
+          document.getElementById("0").innerHTML = "int num1; <br>";
+        }
+        if (!Number.isInteger(b)) {
+          document.getElementById("1").innerHTML = "float num2; <br>";
+        }else{
+          document.getElementById("1").innerHTML = "int num2; <br>";
+        }
+        if (!Number.isInteger(c)) {
+          document.getElementById("2").innerHTML = "float num3;";
+        }else{
+          document.getElementById("2").innerHTML = "int num3;";
+        }
+      }
     }
   }
   $(".validation").hide();
   showCode();
-  var c = "line"
+  var c = "line";
   changeClass(c + "1", 'showDivInRed code-text');
   changeClass('next', 'show button-style');
   changeClass('next1', 'show button-style bottom-button');
+
+
+    document.getElementById("btnOk").hidden = true;
 }
 
 function createBoxes() {
@@ -99,7 +137,6 @@ var finished = false;
 var reload = false;
 
 function Execution() {
-  document.getElementById("btnOk").hidden = true;
   if (reload) {
     location.reload();
   }

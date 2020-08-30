@@ -9,7 +9,7 @@
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Programming for Problem Solving Lab
-<b> Experiment|     <b> 2. Write a program to find the greatest of three numbers.
+<b> Experiment|     <b> 2. Write a program in C to find the greatest of three numbers.
 
 
 
